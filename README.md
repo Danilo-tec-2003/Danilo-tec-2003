@@ -56,10 +56,3 @@ Meu foco é o crescimento contínuo e a entrega de software de alta qualidade, c
 </tr>
 </table>
 
-<!-- Animação de Contribuição (Skyline) -->
-
-<div align="center">
-<a href="https://skyline.github.com/Danilo-tec-2003/2025">
-<img src="https://skyline.github.com/Danilo-tec-2003/2025.svg" alt="GitHub Skyline" />
-</a>
-</div>
