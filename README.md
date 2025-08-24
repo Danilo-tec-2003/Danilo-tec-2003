@@ -1,8 +1,6 @@
 <!-- Cabeçalho -->
 
 <div align="center">
-  <img src="https://github.com/Danilo-tec-2003/Danilo-tec-2003/blob/main/githubCEU2025.jpg?raw=true" alt="Banner do Perfil de Danilo" />
-
 <h1>
 Danilo Mendes
 </h1>
