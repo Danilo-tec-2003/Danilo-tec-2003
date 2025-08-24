@@ -3,7 +3,6 @@
 <div align="center">
 <h1>
 Danilo Mendes
-<img src="https://www.google.com/url?sa=E&source=gmail&q=https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <h3>Desenvolvedor Full Stack</h3>
 </div>
@@ -57,8 +56,10 @@ Meu foco é o crescimento contínuo e a entrega de software de alta qualidade, c
 </tr>
 </table>
 
-<!-- Animação de Contribuição (Snake) -->
+<!-- Animação de Contribuição (Skyline) -->
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/professor-rafael/professor-rafael/output/snake.svg" alt="Snake animation" />
+<a href="https://skyline.github.com/Danilo-tec-2003/2025">
+<img src="https://skyline.github.com/Danilo-tec-2003/2025.svg" alt="GitHub Skyline" />
+</a>
 </div>
