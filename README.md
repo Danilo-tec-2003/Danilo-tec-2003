@@ -1,58 +1,102 @@
-<!-- Cabeçalho -->
-
 <div align="center">
-<h1>
-Danilo Mendes
-</h1>
-<h3>Desenvolvedor Full Stack</h3>
+
+# Danilo Mendes  
+### Backend Developer | Java & Go  
+
 </div>
 
-<!-- Sobre Mim e Estatísticas -->
+---
 
-<table>
-<tr>
-<!-- Coluna da Esquerda: Sobre mim, contato e tecnologias -->
-<td width="65%" valign="top">
-<h3>👋 Sobre Mim</h3>
-<p>
-Olá! Sou um desenvolvedor Full Stack apaixonado por transformar desafios em soluções eficientes e elegantes. Com formação em <strong>Técnico em Desenvolvimento de Sistemas</strong> e atualmente cursando <strong>Graduação na área</strong>, busco constantemente aprimorar minhas habilidades e aplicar as melhores práticas do mercado.
+## 👨‍💻 Sobre mim
+
+Atuo como Desenvolvedor Trainee com experiência prática no desenvolvimento de aplicações backend para ambientes corporativos.
+
+Tenho foco em construção de APIs bem estruturadas, organização de código e aplicação de boas práticas de engenharia de software. Trabalho principalmente com **Java e Spring Boot**, e atualmente estou aprofundando meus conhecimentos em **Golang** para desenvolvimento de serviços mais performáticos e escaláveis.
+
+Meu objetivo é evoluir como **Backend Developer**, consolidando fundamentos sólidos de arquitetura, testes e construção de sistemas confiáveis.
+
+---
+
+## 🧠 Especialidade
+
+- Desenvolvimento de APIs REST
+- Estruturação em camadas (Controller, Service, Repository)
+- Integração com bancos relacionais
+- Tratamento de exceções e validações
+- Organização de código e boas práticas
+
+---
+
+## 🛠️ Stack Técnica
+
+### Backend
+- Java 8+
+- Spring Boot
+- Spring Data JPA
+- Hibernate
+- Golang (em evolução)
+- Construção de APIs REST
+
+### Banco de Dados
+- PostgreSQL
+- Modelagem relacional
+- Escrita de queries SQL
+
+### Frontend (Experiência complementar)
+- Angular
+- TypeScript
+- Integração com APIs REST
+
+### Ferramentas & Ambiente
+- Git & GitHub
+- Maven & Gradle
+- Docker 
+- Postman
+- IntelliJ IDEA
+- VS Code
+
+---
+
+## 📚 Em evolução constante
+
+Atualmente aprofundando:
+
+- Clean Architecture
+- Testes automatizados (JUnit e Mockito)
+- Princípios SOLID
+- Concorrência e fundamentos de Go
+- Estruturação de serviços backend escaláveis
+
+---
+
+## 🎯 Direcionamento Profissional
+
+Busco atuar como **Desenvolvedor Backend Java / Go**, contribuindo em projetos que envolvam:
+
+- Construção de APIs robustas
+- Evolução e manutenção de sistemas corporativos
+- Boas práticas de versionamento e colaboração em equipe
+- Crescimento técnico contínuo
+
+---
+
+## 📫 Contato
+
+<div align="left">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilomendesaraujo/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danilodev.br@gmail.com)
+
+</div>
+
+---
+
+## 📊 Contribuições
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Danilo-tec-2003&theme=github-compact" />
 </p>
-<p>
-Meu foco é o crescimento contínuo e a entrega de software de alta qualidade, combinando criatividade e conhecimento técnico para gerar valor.
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/Danilo-tec-2003" alt="GitHub Contributions Chart" />
 </p>
-
-  <h3>🚀 Tecnologias e Ferramentas</h3>
-  <p>
-    <!-- Adicione ou remova as tecnologias conforme seu conhecimento -->
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  </p>
-
-  <h3>📫 Como me encontrar</h3>
-  <p>
-    <a href="https://www.linkedin.com/in/danilomendesaraujo/" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <!-- Substitua pelo seu e-mail -->
-    <a href="danilodev.br@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-  </p>
-</td>
-
-<!-- Coluna da Direita: Estatísticas do GitHub -->
-<td width="35%" valign="top">
-  <div align="center">
-    <!-- Substitua SEU_USUARIO_DO_GITHUB pelo seu usuário -->
-    <img src="https://github-readme-stats.vercel.app/api?username=Danilo-tec-2003&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-tec-2003&layout=compact&langs_count=8&theme=dracula&locale=pt-br" alt="Principais Linguagens" />
-  </div>
-</td>
-
-</tr>
-</table>
-
