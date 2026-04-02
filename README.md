@@ -1,7 +1,7 @@
 <div align="center">
 
 # Danilo Mendes  
-### Backend Developer | Java & Go  
+### Backend Developer | Java 
 
 </div>
 
