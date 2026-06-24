@@ -9,7 +9,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Atuo como Desenvolvedor Trainee com experiência prática no desenvolvimento de aplicações backend para ambientes corporativos.
+Atuo como Desenvolvedor com experiência prática no desenvolvimento de aplicações backend para ambientes corporativos.
 
 Tenho foco em construção de APIs bem estruturadas, organização de código e aplicação de boas práticas de engenharia de software. Trabalho principalmente com **Java e Spring Boot**, e atualmente estou aprofundando meus conhecimentos em **Golang** para desenvolvimento de serviços mais performáticos e escaláveis.
 
