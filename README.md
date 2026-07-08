@@ -1,102 +1,68 @@
 <div align="center">
 
-# Danilo Mendes  
-### Backend Developer | Java 
+# Danilo Mendes
+
+### Desenvolvedor Back-End Java | Spring Boot | PostgreSQL | Integrações | Go em evolução
+
+[LinkedIn](https://www.linkedin.com/in/danilomendesaraujo/) · [E-mail](mailto:danilodev.br@gmail.com) · [Repositórios](https://github.com/Danilo-tec-2003?tab=repositories)
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
-Atuo como Desenvolvedor com experiência prática no desenvolvimento de aplicações backend para ambientes corporativos.
+Sou desenvolvedor com experiência em sistemas corporativos para logística, transporte e operações comerciais, atuando principalmente com **Java**, **Spring Boot**, **JSP**, **PostgreSQL**, **APIs REST** e integrações por **JSON**, **XML**, **CSV**, **XLSX** e **SFTP**.
 
-Tenho foco em construção de APIs bem estruturadas, organização de código e aplicação de boas práticas de engenharia de software. Trabalho principalmente com **Java e Spring Boot**, e atualmente estou aprofundando meus conhecimentos em **Golang** para desenvolvimento de serviços mais performáticos e escaláveis.
+No dia a dia, trabalho com desenvolvimento de funcionalidades, refinamento técnico, correção de bugs em homologação e produção, análise de banco de dados, relatórios com **JasperReports/iReports**, versionamento com **Git/GitLab** e colaboração em times ágeis.
 
-Meu objetivo é evoluir como **Backend Developer**, consolidando fundamentos sólidos de arquitetura, testes e construção de sistemas confiáveis.
-
----
-
-## 🧠 Especialidade
-
-- Desenvolvimento de APIs REST
-- Estruturação em camadas (Controller, Service, Repository)
-- Integração com bancos relacionais
-- Tratamento de exceções e validações
-- Organização de código e boas práticas
+Também mantenho estudos contínuos em arquitetura, testes, mensageria, observabilidade, segurança e Go, aplicando os aprendizados em projetos práticos.
 
 ---
 
-## 🛠️ Stack Técnica
+## Stack principal
 
-### Backend
-- Java 8+
-- Spring Boot
-- Spring Data JPA
-- Hibernate
-- Golang (em evolução)
-- Construção de APIs REST
-
-### Banco de Dados
-- PostgreSQL
-- Modelagem relacional
-- Escrita de queries SQL
-
-### Frontend (Experiência complementar)
-- Angular
-- TypeScript
-- Integração com APIs REST
-
-### Ferramentas & Ambiente
-- Git & GitHub
-- Maven & Gradle
-- Docker 
-- Postman
-- IntelliJ IDEA
-- VS Code
+| Área | Tecnologias e práticas |
+| --- | --- |
+| Backend | Java 8/17, Spring Boot, Spring Data JPA, JSP/Servlets, APIs REST |
+| Banco de dados | PostgreSQL, MySQL, SQL, views, queries, análise de inconsistências |
+| Frontend complementar | Angular, HTML, CSS, JavaScript, TypeScript, jQuery |
+| Integrações | JSON, XML, CSV, XLSX, SFTP, HTTP backend-to-backend, OpenAPI/Swagger |
+| Relatórios | JasperReports, iReports, consultas SQL para relatórios |
+| Ferramentas | Git, GitLab, Docker, Docker Compose, Maven, Gradle, Postman, Jira |
+| Boas práticas | Clean Code, SOLID, MVC/camadas, Code Review, Git Flow, commits semânticos |
 
 ---
 
-## 📚 Em evolução constante
+## Projetos em destaque
 
-Atualmente aprofundando:
-
-- Clean Architecture
-- Testes automatizados (JUnit e Mockito)
-- Princípios SOLID
-- Concorrência e fundamentos de Go
-- Estruturação de serviços backend escaláveis
-
----
-
-## 🎯 Direcionamento Profissional
-
-Busco atuar como **Desenvolvedor Backend Java / Go**, contribuindo em projetos que envolvam:
-
-- Construção de APIs robustas
-- Evolução e manutenção de sistemas corporativos
-- Boas práticas de versionamento e colaboração em equipe
-- Crescimento técnico contínuo
+| Projeto | Stack | Foco técnico |
+| --- | --- | --- |
+| [FiscalMove FMS](https://github.com/Danilo-tec-2003/fiscalmove-fms) | Java 8, JSP/Servlets, PostgreSQL, JasperReports, Docker | Sistema web de gestão operacional de fretes, cadastros, ocorrências, relatórios PDF e integração fiscal via API HTTP. |
+| [Motor Fiscal Go](https://github.com/Danilo-tec-2003/motor-fiscal-go) | Go, net/http, PostgreSQL, pgx, OpenAPI, Docker | Serviço fiscal com regras por vigência/prioridade, API Key, correlation id, cálculo auditável e memória de cálculo. |
+| [Importador de Tabelas de Frete](https://github.com/Danilo-tec-2003/importador-frete) | Go, goroutines, worker pool, Vue 3, TypeScript, Docker Compose | Importação de CSVs de frete com validação concorrente, progresso em tempo real, métricas e exportação de registros válidos. |
+| [Backend Labs](https://github.com/Danilo-tec-2003/backend-labs) | Java, Spring Boot, Go, Docker, testes, observabilidade | Labs pequenos para estudar uma competência por vez e consolidar fundamentos backend com entregas objetivas. |
+| [Fintech Ecosystem](https://github.com/Danilo-tec-2003/fintech-ecosystem) | Java 21, Spring Boot, PostgreSQL, Flyway, Kafka, Testcontainers, ArchUnit | Projeto de estudo com arquitetura modular, domínio financeiro, idempotência, outbox, auditoria, segurança e observabilidade. |
+| [Public PRs Analysis](https://github.com/Danilo-tec-2003/public-prs-analysis) | Python, GitHub API, pandas, openpyxl | Ferramenta para transformar histórico de Pull Requests em diagnóstico técnico, com classificação e dashboard anonimizado. |
 
 ---
 
-## 📫 Contato
+## Estudos contínuos
 
-<div align="left">
+Atualmente aprofundo:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilomendesaraujo/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danilodev.br@gmail.com)
-
-</div>
+- testes automatizados com JUnit, Mockito, MockMvc, Testcontainers e ArchUnit;
+- arquitetura modular, DDD e Clean Architecture;
+- mensageria, eventos, retry, DLQ, idempotência e outbox;
+- observabilidade com logs estruturados, correlation id, métricas, Prometheus e Grafana;
+- segurança com Spring Security, JWT/OAuth2 e autorização por papéis/escopos;
+- Go para APIs, workers, concorrência e integração entre serviços.
 
 ---
 
-## 📊 Contribuições
+## Direção técnica
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Danilo-tec-2003&theme=github-compact" />
-</p>
+Busco construir software com clareza de responsabilidade, regras de negócio bem isoladas, banco de dados consistente, versionamento cuidadoso e documentação suficiente para facilitar manutenção e evolução.
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/Danilo-tec-2003" alt="GitHub Contributions Chart" />
-</p>
+Tenho foco em backend Java e sistemas corporativos, mas mantenho projetos próprios para estudar tecnologias que ajudam a construir serviços mais confiáveis, testáveis e fáceis de operar.
+
