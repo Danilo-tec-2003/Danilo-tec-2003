@@ -38,12 +38,10 @@ Também mantenho estudos contínuos em arquitetura, testes, mensageria, observab
 
 | Projeto | Stack | Foco técnico |
 | --- | --- | --- |
+| [Travel Agency Microservices](https://github.com/Danilo-tec-2003/travel-agency) | Java, Spring Boot, RabbitMQ, PostgreSQL, Docker Compose, JPA | Sistema de reservas com microserviços e mensageria assíncrona, incluindo processamento de reserva, atualização de status, validações, tratamento de erros e idempotência no consumo de eventos. |
 | [FiscalMove FMS](https://github.com/Danilo-tec-2003/fiscalmove-fms) | Java 8, JSP/Servlets, PostgreSQL, JasperReports, Docker | Sistema web de gestão operacional de fretes, cadastros, ocorrências, relatórios PDF e integração fiscal via API HTTP. |
 | [Motor Fiscal Go](https://github.com/Danilo-tec-2003/motor-fiscal-go) | Go, net/http, PostgreSQL, pgx, OpenAPI, Docker | Serviço fiscal com regras por vigência/prioridade, API Key, correlation id, cálculo auditável e memória de cálculo. |
 | [Importador de Tabelas de Frete](https://github.com/Danilo-tec-2003/importador-frete) | Go, goroutines, worker pool, Vue 3, TypeScript, Docker Compose | Importação de CSVs de frete com validação concorrente, progresso em tempo real, métricas e exportação de registros válidos. |
-| [Backend Labs](https://github.com/Danilo-tec-2003/backend-labs) | Java, Spring Boot, Go, Docker, testes, observabilidade | Labs pequenos para estudar uma competência por vez e consolidar fundamentos backend com entregas objetivas. |
-| [Fintech Ecosystem](https://github.com/Danilo-tec-2003/fintech-ecosystem) | Java 21, Spring Boot, PostgreSQL, Flyway, Kafka, Testcontainers, ArchUnit | Projeto de estudo com arquitetura modular, domínio financeiro, idempotência, outbox, auditoria, segurança e observabilidade. |
-| [Public PRs Analysis](https://github.com/Danilo-tec-2003/public-prs-analysis) | Python, GitHub API, pandas, openpyxl | Ferramenta para transformar histórico de Pull Requests em diagnóstico técnico, com classificação e dashboard anonimizado. |
 
 ---
 
@@ -65,4 +63,3 @@ Atualmente aprofundo:
 Busco construir software com clareza de responsabilidade, regras de negócio bem isoladas, banco de dados consistente, versionamento cuidadoso e documentação suficiente para facilitar manutenção e evolução.
 
 Tenho foco em backend Java e sistemas corporativos, mas mantenho projetos próprios para estudar tecnologias que ajudam a construir serviços mais confiáveis, testáveis e fáceis de operar.
-
