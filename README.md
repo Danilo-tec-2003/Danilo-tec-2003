@@ -40,6 +40,24 @@ Valorizo código que torne a regra explícita, decisões técnicas proporcionais
 
 ## Projetos selecionados
 
+### [Travel Agency](https://github.com/Danilo-tec-2003/travel-agency)
+
+Sistema de reservas construído com três microserviços em Spring Boot, comunicação assíncrona por RabbitMQ, persistência em PostgreSQL e execução integrada com Docker Compose.
+
+O fluxo percorre todo o ciclo de uma reserva: criação, processamento, confirmação ou cancelamento e notificação por e-mail. Cada serviço possui uma responsabilidade definida, e os estados são propagados por eventos entre `booking-service`, `reservation-service` e `notification-service`.
+
+**Evidências de engenharia:**
+
+- consumo idempotente de eventos, com registro dos identificadores já processados;
+- validação de entrada e tratamento global de respostas de erro;
+- notificação por e-mail com Spring Mail e ambiente local isolado pelo Mailpit;
+- testes unitários das regras principais e do processamento de eventos;
+- workflow de integração contínua para executar os testes dos serviços;
+- logs orientados ao acompanhamento do fluxo distribuído;
+- infraestrutura local reproduzível com PostgreSQL, RabbitMQ e os três serviços em containers.
+
+**Próximo passo:** realizar o deploy na AWS e evoluir configuração de ambientes, automação de entrega, observabilidade e operação dos serviços.
+
 ### [FiscalMove FMS](https://github.com/Danilo-tec-2003/fiscalmove-fms)
 
 Sistema web para gestão operacional de fretes, com cadastros, ocorrências, relatórios em PDF e integração fiscal por API HTTP.
@@ -63,14 +81,6 @@ Aplicação para importar e validar tabelas de frete em CSV, com processamento c
 Ferramenta em Python para analisar Pull Requests públicos, classificar mudanças e produzir um painel técnico anonimizado.
 
 **Foco de engenharia:** qualidade de código, leitura de histórico, classificação de mudanças e comunicação de indicadores técnicos.
-
-## Projeto em evolução
-
-### [Travel Agency](https://github.com/Danilo-tec-2003/travel-agency)
-
-Projeto de reservas estruturado com microserviços em Spring Boot, comunicação assíncrona por RabbitMQ, persistência em PostgreSQL e ambiente local com Docker Compose.
-
-O próximo ciclo será dedicado a preparar e executar o deploy na **AWS**, usando o projeto para aprofundar decisões de infraestrutura, configuração de ambientes, automação de entrega, observabilidade e operação de serviços distribuídos. As escolhas serão incorporadas gradualmente e documentadas no próprio repositório.
 
 ## Formação contínua
 
