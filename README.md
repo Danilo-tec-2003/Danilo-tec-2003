@@ -2,7 +2,7 @@
 
 # Danilo Mendes
 
-### Desenvolvedor Back-End | Java · Spring Boot · PostgreSQL · Integrações · Go
+### Desenvolvedor Back-End | Java 17 · AWS Lambda · PostgreSQL · Integrações
 
 [LinkedIn](https://www.linkedin.com/in/danilomendesaraujo/) · [E-mail](mailto:danilodev.br@gmail.com) · [Repositórios](https://github.com/Danilo-tec-2003?tab=repositories)
 
@@ -12,33 +12,58 @@
 
 ## Perfil profissional
 
-Desenvolvedor back-end com atuação em sistemas corporativos para logística, transporte e operações comerciais. Trabalho principalmente com **Java**, **Spring Boot**, **PostgreSQL**, aplicações web legadas e integrações entre sistemas.
+Desenvolvedor back-end com atuação em sistemas corporativos para logística, transporte e operações comerciais. Trabalho principalmente com **Java 17**, **Spring Boot**, **AWS Lambda**, **PostgreSQL**, aplicações web e integrações entre sistemas.
 
-Minha rotina envolve compreender regras de negócio, refinar soluções, evoluir funcionalidades, investigar problemas entre aplicação e banco de dados e acompanhar correções até a validação. Também atuo com relatórios operacionais, processamento de arquivos e integrações HTTP ou baseadas em troca de dados.
+Minha rotina envolve compreender regras de negócio, refinar soluções, orientar implementações, evoluir funcionalidades, investigar problemas entre aplicação e banco de dados e acompanhar correções até a validação. Também atuo com interfaces em Vue, relatórios operacionais, processamento de arquivos e integrações HTTP ou baseadas em troca de dados.
 
 Valorizo código que torne a regra explícita, decisões técnicas proporcionais ao problema e documentação que ajude outras pessoas a manter o sistema com segurança.
 
-## Atuação técnica
+## O que entrego na prática
 
-- Desenvolvimento e manutenção de aplicações Java com Spring Boot, JSP, Servlets e arquitetura em camadas.
-- Construção e consumo de APIs REST e integrações com JSON, XML, CSV, XLSX e SFTP.
-- Modelagem e investigação de dados com PostgreSQL, SQL, views e análise de inconsistências.
-- Diagnóstico de bugs atravessando interface, backend, banco, relatórios e serviços externos.
-- Criação e manutenção de relatórios com JasperReports e consultas SQL.
-- Refinamento técnico, revisão de código, versionamento e colaboração em times ágeis.
+- Desenvolvimento e evolução de funcionalidades com Java 17, Spring Boot, AWS Lambda, Vue e PostgreSQL.
+- Construção e consumo de APIs e integrações com JSON, XML, CSV, XLSX, SFTP e HTTP.
+- Modelagem, consultas SQL, manutenção de views e investigação de inconsistências de dados.
+- Diagnóstico de bugs em homologação e produção atravessando interface, backend, banco, relatórios e serviços externos.
+- Criação e manutenção de relatórios com JasperReports, parâmetros, sub-relatórios e consultas SQL.
+- Acompanhamento da mudança desde o entendimento da demanda até sua validação.
+
+## Refinamento técnico
+
+Transformo demandas em orientação técnica para o time, detalhando:
+
+- regras de negócio e comportamento esperado;
+- requisitos funcionais e não funcionais;
+- validações, critérios de aceite e cenários de erro;
+- impactos entre frontend, backend, banco, relatórios e integrações;
+- riscos de desempenho, segurança, compatibilidade e regressão;
+- arquivos, camadas e sequência recomendada para implementação.
+
+## Qualidade e colaboração
+
+- Code review orientado a regra de negócio, contratos, dados, segurança e aderência ao padrão do sistema.
+- Participação em refinamentos, Sprint Reviews e retrospectivas.
+- Acompanhamento das demandas no IceScrum com organização Kanban.
+- Apoio técnico aos demais desenvolvedores e compartilhamento de conhecimento no time.
+- Uso de Git/GitLab, fluxo de branches e commits semânticos no desenvolvimento diário.
+
+## Engenharia assistida por IA
+
+Utilizo IA como apoio à investigação, ao refinamento, à análise de impacto, à revisão de código e à criação de testes. As sugestões são confrontadas com o código real, schema, contratos, padrões locais e validações executáveis; a decisão e a responsabilidade técnica permanecem humanas.
 
 ## Competências centrais
 
 | Área | Tecnologias e práticas |
 | --- | --- |
-| Backend | Java 8/17, Spring Boot, Spring Data JPA, JSP, Servlets, APIs REST |
+| Backend | Java 8/17, Spring Boot, Spring Data JPA, AWS Lambda, JSP, Servlets, APIs REST |
 | Dados | PostgreSQL, MySQL, SQL, modelagem, análise e consistência de dados |
+| Frontend | Vue, Angular, TypeScript, JavaScript, HTML, CSS e jQuery |
 | Integrações | HTTP, JSON, XML, CSV, XLSX, SFTP, OpenAPI e Swagger |
 | Relatórios | JasperReports, iReports e consultas orientadas a relatórios |
 | Engenharia | Refinamento técnico, revisão de código, documentação, investigação de falhas e Git |
-| Ecossistema | Docker, Docker Compose, Maven, Gradle, RabbitMQ e Go |
+| Colaboração | Scrum, Sprint Review, retrospectiva, IceScrum e Kanban |
+| Ecossistema | Docker, Docker Compose, Maven, Gradle, RabbitMQ, Go e Python |
 
-## Projetos selecionados
+## Projetos públicos selecionados
 
 ### [Travel Agency](https://github.com/Danilo-tec-2003/travel-agency)
 
