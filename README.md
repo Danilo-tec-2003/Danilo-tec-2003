@@ -2,7 +2,7 @@
 
 # Danilo Mendes
 
-### Desenvolvedor Back-End Java | Spring Boot | PostgreSQL | Integrações | Go em evolução
+### Desenvolvedor Back-End | Java · Spring Boot · PostgreSQL · Integrações · Go
 
 [LinkedIn](https://www.linkedin.com/in/danilomendesaraujo/) · [E-mail](mailto:danilodev.br@gmail.com) · [Repositórios](https://github.com/Danilo-tec-2003?tab=repositories)
 
@@ -10,56 +10,74 @@
 
 ---
 
-## Sobre mim
+## Perfil profissional
 
-Sou desenvolvedor com experiência em sistemas corporativos para logística, transporte e operações comerciais, atuando principalmente com **Java**, **Spring Boot**, **JSP**, **PostgreSQL**, **APIs REST** e integrações por **JSON**, **XML**, **CSV**, **XLSX** e **SFTP**.
+Desenvolvedor back-end com atuação em sistemas corporativos para logística, transporte e operações comerciais. Trabalho principalmente com **Java**, **Spring Boot**, **PostgreSQL**, aplicações web legadas e integrações entre sistemas.
 
-No dia a dia, trabalho com desenvolvimento de funcionalidades, refinamento técnico, correção de bugs em homologação e produção, análise de banco de dados, relatórios com **JasperReports/iReports**, versionamento com **Git/GitLab** e colaboração em times ágeis.
+Minha rotina envolve compreender regras de negócio, refinar soluções, evoluir funcionalidades, investigar problemas entre aplicação e banco de dados e acompanhar correções até a validação. Também atuo com relatórios operacionais, processamento de arquivos e integrações HTTP ou baseadas em troca de dados.
 
-Também mantenho estudos contínuos em arquitetura, testes, mensageria, observabilidade, segurança e Go, aplicando os aprendizados em projetos práticos.
+Valorizo código que torne a regra explícita, decisões técnicas proporcionais ao problema e documentação que ajude outras pessoas a manter o sistema com segurança.
 
----
+## Atuação técnica
 
-## Stack principal
+- Desenvolvimento e manutenção de aplicações Java com Spring Boot, JSP, Servlets e arquitetura em camadas.
+- Construção e consumo de APIs REST e integrações com JSON, XML, CSV, XLSX e SFTP.
+- Modelagem e investigação de dados com PostgreSQL, SQL, views e análise de inconsistências.
+- Diagnóstico de bugs atravessando interface, backend, banco, relatórios e serviços externos.
+- Criação e manutenção de relatórios com JasperReports e consultas SQL.
+- Refinamento técnico, revisão de código, versionamento e colaboração em times ágeis.
+
+## Competências centrais
 
 | Área | Tecnologias e práticas |
 | --- | --- |
-| Backend | Java 8/17, Spring Boot, Spring Data JPA, JSP/Servlets, APIs REST |
-| Banco de dados | PostgreSQL, MySQL, SQL, views, queries, análise de inconsistências |
-| Frontend complementar | Angular, HTML, CSS, JavaScript, TypeScript, jQuery |
-| Integrações | JSON, XML, CSV, XLSX, SFTP, HTTP backend-to-backend, OpenAPI/Swagger |
-| Relatórios | JasperReports, iReports, consultas SQL para relatórios |
-| Ferramentas | Git, GitLab, Docker, Docker Compose, Maven, Gradle, Postman, Jira |
-| Boas práticas | Clean Code, SOLID, MVC/camadas, Code Review, Git Flow, commits semânticos |
+| Backend | Java 8/17, Spring Boot, Spring Data JPA, JSP, Servlets, APIs REST |
+| Dados | PostgreSQL, MySQL, SQL, modelagem, análise e consistência de dados |
+| Integrações | HTTP, JSON, XML, CSV, XLSX, SFTP, OpenAPI e Swagger |
+| Relatórios | JasperReports, iReports e consultas orientadas a relatórios |
+| Engenharia | Refinamento técnico, revisão de código, documentação, investigação de falhas e Git |
+| Ecossistema | Docker, Docker Compose, Maven, Gradle, RabbitMQ e Go |
 
----
+## Projetos selecionados
 
-## Projetos em destaque
+### [FiscalMove FMS](https://github.com/Danilo-tec-2003/fiscalmove-fms)
 
-| Projeto | Stack | Foco técnico |
-| --- | --- | --- |
-| [Travel Agency Microservices](https://github.com/Danilo-tec-2003/travel-agency) | Java, Spring Boot, RabbitMQ, PostgreSQL, Docker Compose, JPA | Sistema de reservas com microserviços e mensageria assíncrona, incluindo processamento de reserva, atualização de status, validações, tratamento de erros e idempotência no consumo de eventos. |
-| [FiscalMove FMS](https://github.com/Danilo-tec-2003/fiscalmove-fms) | Java 8, JSP/Servlets, PostgreSQL, JasperReports, Docker | Sistema web de gestão operacional de fretes, cadastros, ocorrências, relatórios PDF e integração fiscal via API HTTP. |
-| [Motor Fiscal Go](https://github.com/Danilo-tec-2003/motor-fiscal-go) | Go, net/http, PostgreSQL, pgx, OpenAPI, Docker | Serviço fiscal com regras por vigência/prioridade, API Key, correlation id, cálculo auditável e memória de cálculo. |
-| [Importador de Tabelas de Frete](https://github.com/Danilo-tec-2003/importador-frete) | Go, goroutines, worker pool, Vue 3, TypeScript, Docker Compose | Importação de CSVs de frete com validação concorrente, progresso em tempo real, métricas e exportação de registros válidos. |
+Sistema web para gestão operacional de fretes, com cadastros, ocorrências, relatórios em PDF e integração fiscal por API HTTP.
 
----
+**Foco de engenharia:** Java 8, JSP e Servlets, PostgreSQL, JasperReports, integração entre sistemas e organização de um fluxo corporativo de ponta a ponta.
 
-## Estudos contínuos
+### [Motor Fiscal Go](https://github.com/Danilo-tec-2003/motor-fiscal-go)
 
-Atualmente aprofundo:
+API para simulação e cálculo tributário auditável em operações de frete, considerando regras, vigência e prioridade.
 
-- testes automatizados com JUnit, Mockito, MockMvc, Testcontainers e ArchUnit;
-- arquitetura modular, DDD e Clean Architecture;
-- mensageria, eventos, retry, DLQ, idempotência e outbox;
-- observabilidade com logs estruturados, correlation id, métricas, Prometheus e Grafana;
-- segurança com Spring Security, JWT/OAuth2 e autorização por papéis/escopos;
-- Go para APIs, workers, concorrência e integração entre serviços.
+**Foco de engenharia:** Go, PostgreSQL, API Key, correlation ID, rastreabilidade das decisões e memória de cálculo.
 
----
+### [Importador de Tabelas de Frete](https://github.com/Danilo-tec-2003/importador-frete)
+
+Aplicação para importar e validar tabelas de frete em CSV, com processamento concorrente e acompanhamento do progresso.
+
+**Foco de engenharia:** Go, goroutines, worker pool, Vue 3, TypeScript, métricas e separação entre processamento e apresentação.
+
+### [Análise de Pull Requests Públicos](https://github.com/Danilo-tec-2003/public-prs-analysis)
+
+Ferramenta em Python para analisar Pull Requests públicos, classificar mudanças e produzir um painel técnico anonimizado.
+
+**Foco de engenharia:** qualidade de código, leitura de histórico, classificação de mudanças e comunicação de indicadores técnicos.
+
+## Projeto em evolução
+
+### [Travel Agency](https://github.com/Danilo-tec-2003/travel-agency)
+
+Projeto de reservas estruturado com microserviços em Spring Boot, comunicação assíncrona por RabbitMQ, persistência em PostgreSQL e ambiente local com Docker Compose.
+
+O próximo ciclo será dedicado a preparar e executar o deploy na **AWS**, usando o projeto para aprofundar decisões de infraestrutura, configuração de ambientes, automação de entrega, observabilidade e operação de serviços distribuídos. As escolhas serão incorporadas gradualmente e documentadas no próprio repositório.
+
+## Formação contínua
+
+Mantenho aprendizado direcionado aos problemas que encontro na prática: arquitetura modular, testes, mensageria, observabilidade, segurança, serviços em Go e infraestrutura em nuvem.
+
+Também registro reflexões sobre engenharia e produto no repositório [O engenheiro de software com mentalidade de produto](https://github.com/Danilo-tec-2003/O-engenheiro-de-Software-com-mentalidade-de-produtos), conectando leitura, experiência profissional e aplicação prática.
 
 ## Direção técnica
 
-Busco construir software com clareza de responsabilidade, regras de negócio bem isoladas, banco de dados consistente, versionamento cuidadoso e documentação suficiente para facilitar manutenção e evolução.
-
-Tenho foco em backend Java e sistemas corporativos, mas mantenho projetos próprios para estudar tecnologias que ajudam a construir serviços mais confiáveis, testáveis e fáceis de operar.
+Busco evoluir sistemas com atenção simultânea à regra de negócio, integridade dos dados, capacidade de diagnóstico e experiência de quem mantém e opera o software. Meu foco não é apenas concluir funcionalidades, mas compreender o problema, reduzir risco e entregar uma solução que continue clara depois da primeira versão.
